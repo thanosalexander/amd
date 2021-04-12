@@ -1,0 +1,19 @@
+{
+    "name": "thanosalexander/amd-telecom",
+    "authors": [
+        {
+            "name": "Athanasios Alexandris",
+            "email": "thanosalexander@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/collections": "^8.36",
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
